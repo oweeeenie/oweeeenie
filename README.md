@@ -1,6 +1,6 @@
 # Hi there, I'm Owen! 👋
 
-I am from Ohio and I am a self taught web developer. I have been learning code since April 2024 and I have picked up the languages/frameworks mentioned below ↓↓↓
+I'm a self-taught web developer from Ohio, and I've been learning to code since April 2024. I'm passionate about building interactive, user-friendly websites and applications, and I'm always looking to improve my skills and explore new technologies.
 
 # What do I do?
 
