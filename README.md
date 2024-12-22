@@ -9,5 +9,7 @@ I'm a self-taught web developer from Ohio, and I've been learning to code since 
 ![HTML](https://img.shields.io/badge/HTML-%23e34f26?style=for-the-badge&logo=html5&logoColor=%23fff)
 ![CSS](https://img.shields.io/badge/CSS-%231572b6?style=for-the-badge&logo=css3&logoColor=%23fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%232b82d9?style=for-the-badge&logo=typescript&logoColor=%23fff)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338bdf8?style=for-the-badge&logo=tailwindcss&logoColor=%23fff)
+
 
 
