@@ -1,4 +1,4 @@
-# Hey! My names Owen, I am from Ohio and I am a self taught developer. I started learning code in 2024 of April and have been learning ever since. I followed the traditonal front-end route by learning HTML, CSS and JavaScript.
+## Hey! My names Owen, I am from Ohio and I am a self taught developer. I started learning code in 2024 of April and have been learning ever since. I followed the traditonal front-end route by learning HTML, CSS and JavaScript.
 
 ## As time has went on, I also decided to pickup some other important languages/frameworks. That being, React and TypeScript. I am interested in becoming a front-end-developer as of right now just to get my foot in the door, and will gladly branch out to other things like back-end.. etc...
 
