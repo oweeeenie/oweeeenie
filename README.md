@@ -1,5 +1,6 @@
 # Hi there, I'm Owen! 👋
-I'm a web developer passionate about building modern, interactive websites and applications. I'm currently learning and exploring new technologies, and happy to learn any new skills I have not yet learned!
+
+I am from Ohio and I am a self taught web developer. I have been learning code since April 2024 and I have picked up the languages/frameworks mentioned below ↓↓↓
 
 # What do I do?
 
