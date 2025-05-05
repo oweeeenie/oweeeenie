@@ -1,6 +1,10 @@
 # Hi there, I'm Owen! 👋
 
-I'm a self-taught web developer from Ohio, and I've been learning to code since April 2024. I'm passionate about building interactive, user-friendly websites and applications, and I'm always looking to improve my skills and explore new technologies.
+I'm a future web developer from Ohio, currently pursuing a Bachelor's degree in Computer Science at Western Governors University. I began my coding journey in April 2024, and since then, I've developed a strong passion for building responsive, user-friendly websites and interactive applications.
+
+With a growing foundation in HTML, CSS, JavaScript, and frameworks like React, I enjoy turning ideas into real, functional projects. I'm constantly seeking ways to deepen my knowledge, refine my skills, and explore modern technologies that can improve the way people interact with the web.
+
+My long-term goal is to break into the tech field whether that be a SWE, Developer, Analyst, Administator etc...
 
 # What do I do?
 
